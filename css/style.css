@@ -1,0 +1,132 @@
+header{
+	padding:15px 0;
+	margin:0;
+	border-bottom: solid #333 1px;
+	background:#333;
+}
+.logo{
+	width: 80px;
+	height: 80px;
+}
+nav ul{
+	list-style-type: none;
+	padding-top:34px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+nav li{
+	position: relative;
+	float:left;
+	margin: 0;
+	padding: 0 0 0 0;
+	font-family: Arial;
+}
+nav li a:hover {
+    background: white;
+}
+nav a{
+	text-decoration: none;
+	padding: 10px 15px;
+	color:#eee;
+	text-shadow:2px 2px 4px #000;
+}
+nav a:hover{
+	color:black;
+}
+.submenu{
+	background-color: #E6E6E6;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.latest{
+	font-family: Arial;
+}
+.episodes{
+	font-size: 12px;
+	color:blue;
+}
+.imagen-sub{
+	width: 210px;
+	background: white;
+	padding: 3px;
+	border:1px solid #A6A3A3;
+}
+.text1{
+	text-align: center;
+	font-family: Arial;
+	color:#045FB4;
+}
+ul{
+	padding: 20px;
+}
+li{
+	display:inline-block;
+	vertical-align: top;
+	padding: 5.5px;
+} 
+.imagen-medium{
+	width: 100px;
+	padding: 3px;
+	border: 1px solid #A6A3A3;
+}
+.text-center{
+	width: 100px;
+	text-align: center;
+	font-size: 14px;
+	font-family: Arial;
+	color:#045FB4;
+}
+.suscribe{
+	padding-top: 40px;
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: bold;
+}
+hr{
+	height: 3px;
+	background-color: #A6A3A3;
+}
+.suscribe2{
+	font-family: Arial;
+	color:#045FB4;
+	padding: 3px;
+}
+.mini-iconos{
+	width: 15px;
+}
+.suscribe3{
+	font-family: Arial;
+	color:#045FB4;
+	padding: 20px 0px;
+}
+.bandwith{
+	font-family: Arial;
+	color:black;
+	font-weight: bold;
+}
+.footer{
+	background: #7C7878;
+}
+.footer-text{
+	color:white;
+	font-family: Arial;
+	padding: 20px;
+	font-size: 13px;
+}
+.footer-text2{
+	color:white;
+	text-align: center;
+	font-family: Arial;
+	font-size: 13px;
+}
+.footer-text3{
+	color:white;
+	text-align: center;
+	font-family: Arial;
+	font-size: 10px;
+}
+
